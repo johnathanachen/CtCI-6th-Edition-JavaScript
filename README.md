@@ -14,7 +14,7 @@
 
 ## List of Coding Questions:
 
-#### Chapter 1 
+#### Chapter 1 - Array and Strings
 - [x] 1.1 - Is Unique
 - [x] 1.2 - Check Permutation
 - [x] 1.3 - URLify
@@ -25,7 +25,7 @@
 - [x] 1.8 - Zero Matrix
 - [x] 1.9 - String Rotation 
 
-#### Chapter 2 
+#### Chapter 2 - Linked Lists
 - [x] 2.1 - Remove Dups
 - [x] 2.2 - Return Kth to Last
 - [x] 2.3 - Delete Middle Node
@@ -35,7 +35,7 @@
 - [x] 2.7 - Intersection
 - [x] 2.8 - Loop Detection
 
-#### Chapter 3 
+#### Chapter 3 - Stacks and Queues
 - [x] 3.1 - Three in One
 - [x] 3.2 - Stack Min
 - [x] 3.3 - Stack of Plates
@@ -43,7 +43,7 @@
 - [x] 3.5 - Sort Stack
 - [x] 3.6 - Animal Shelter
 
-#### Chapter 4
+#### Chapter 4 - Trees and Graphs
 - [x] 4.1 - Route Between Nodes
 - [x] 4.2 - Minimal Tree
 - [x] 4.3 - List of Depths
@@ -57,7 +57,7 @@
 - [x] 4.11 - Random Node
 - [x] 4.12 - Paths with Sum
 
-#### Chapter 5
+#### Chapter 5 - Bit Manuipulation
 - [x] 5.1 - Insertion
 - [x] 5.2 - Binary to String
 - [x] 5.3 - Flip Bit To Win
@@ -67,7 +67,7 @@
 - [x] 5.7 - Pairwise Swap
 - [x] 5.8 - Draw Line
 
-#### Chapter 6
+#### Chapter 6 - Math and Logic Puzzles
 - [x] 6.1 - Heavy Pill
 - [x] 6.2 - Basketball
 - [x] 6.3 - Dominos
@@ -79,7 +79,7 @@
 - [x] 6.9 - 100 Lockers
 - [x] 6.10 - Poison
 
-#### Chapter 7
+#### Chapter 7 - Object-Oriented Design
 - [x] 7.1 - Deck of Cards
 - [x] 7.2 - Call Center
 - [x] 7.3 - Jukebox
@@ -93,7 +93,7 @@
 - [x] 7.11 - File System
 - [x] 7.12 - Hash Table
 
-#### Chapter 8
+#### Chapter 8 - Recursion and Dynammic Programming
 - [x] 8.1 - Triple Step
 - [x] 8.2 - Robot in a Grid
 - [x] 8.3 - Magic Index
@@ -109,7 +109,7 @@
 - [x] 8.13 - Stack Boxes
 - [x] 8.14 - Boolean Eval
 
-#### Chapter 9
+#### Chapter 9 - System Design and Scalability
 - [x] 9.1 - Stock Data
 - [x] 9.2 - Social Network
 - [x] 9.3 - Web Crawler
@@ -119,7 +119,7 @@
 - [x] 9.7 - Personal Financial Manager
 - [x] 9.8 - Paste Bin
 
-#### Chapter 10
+#### Chapter 10 - Sorting and Searching
 - [x] 10.1 - Sorted Merge
 - [x] 10.2 - Group Anagrams
 - [x] 10.3 - Search In Rotated Array
